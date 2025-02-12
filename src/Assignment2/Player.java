@@ -1,4 +1,4 @@
-package project;
+package Assignment2;
 
 public class Player extends Entity {
     private int age;

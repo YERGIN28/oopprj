@@ -1,4 +1,4 @@
-package project;
+package Assignment2;
 
 import java.util.Objects;
 

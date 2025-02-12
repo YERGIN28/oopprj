@@ -1,4 +1,4 @@
-package project;
+package Assignment2;
 
 public class Sport extends Entity {
     private String type;
